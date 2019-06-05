@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8279b08-dcbe-43e5-8f77-b47f60be7899" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/python3/141_LinkedListCycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/python3/142_LinkedListCycleII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/python3/274_HIndex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/python3/275_HIndexII.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/python3/142_LinkedListCycleII.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="179">
@@ -55,19 +55,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/python3/257_BinaryTreePaths.py">
+        <entry file="file://$PROJECT_DIR$/LeetCode/python3/274_HIndex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" column="92" selection-start-line="37" selection-start-column="92" selection-end-line="37" selection-end-column="92" />
+            <state relative-caret-position="468">
+              <caret line="47" column="16" lean-forward="true" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/python3/62_UniquePaths.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/python3/275_HIndexII.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="103">
+              <caret line="61" column="6" lean-forward="true" selection-start-line="55" selection-end-line="72" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -165,14 +165,16 @@
         <option value="$PROJECT_DIR$/LeetCode/python3/134_GasStation.py" />
         <option value="$PROJECT_DIR$/LeetCode/python3/141_LinkedListCycle.py" />
         <option value="$PROJECT_DIR$/LeetCode/python3/142_LinkedListCycleII.py" />
+        <option value="$PROJECT_DIR$/LeetCode/python3/274_HIndex.py" />
+        <option value="$PROJECT_DIR$/LeetCode/python3/275_HIndexII.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="303" />
-    <option name="y" value="311" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-101" />
+    <option name="y" value="148" />
     <option name="width" value="1620" />
-    <option name="height" value="850" />
+    <option name="height" value="920" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -314,18 +316,18 @@
       <updated>1559311691815</updated>
       <workItem from="1559311693274" duration="12945000" />
       <workItem from="1559443137632" duration="7222000" />
-      <workItem from="1559573591585" duration="3781000" />
+      <workItem from="1559573591585" duration="5322000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23948000" />
+    <option name="totallyTimeSpent" value="25489000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="303" y="311" width="1620" height="850" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34149486" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34237728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -340,7 +342,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Compute Code Lines" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.46551725" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.44875348" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -604,6 +606,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
           <caret line="65" column="21" lean-forward="true" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/python3/274_HIndex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="47" column="16" lean-forward="true" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/python3/275_HIndexII.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="61" column="6" lean-forward="true" selection-start-line="55" selection-end-line="72" selection-end-column="26" />
         </state>
       </provider>
     </entry>

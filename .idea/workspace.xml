@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8279b08-dcbe-43e5-8f77-b47f60be7899" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/python3/17_LetterCombinationOfAPhoneNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/python3/22_GenerateParentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/python3/46_Permutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/python3/47_PermutationsII.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,15 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/笔试题/ByteDance/ByteCamp2019_0601/ByteDance3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/python3/134_GasStation.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -90,20 +81,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/python3/17_LetterCombinationOfAPhoneNumber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="372">
+              <caret line="64" column="23" lean-forward="true" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/python3/46_Permutations.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="71" column="15" lean-forward="true" selection-start-line="71" selection-start-column="15" selection-end-line="71" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/python3/112_PathSum.py">
+        <entry file="file://$PROJECT_DIR$/LeetCode/python3/47_PermutationsII.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+            <state relative-caret-position="242">
+              <caret line="42" column="35" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -170,14 +170,16 @@
         <option value="$PROJECT_DIR$/LeetCode/python3/12_IntegerToRoman.py" />
         <option value="$PROJECT_DIR$/LeetCode/python3/22_GenerateParentheses.py" />
         <option value="$PROJECT_DIR$/LeetCode/python3/17_LetterCombinationOfAPhoneNumber.py" />
+        <option value="$PROJECT_DIR$/LeetCode/python3/47_PermutationsII.py" />
+        <option value="$PROJECT_DIR$/LeetCode/python3/46_Permutations.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="185" />
+    <option name="y" value="214" />
+    <option name="width" value="1620" />
+    <option name="height" value="920" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -319,18 +321,18 @@
       <updated>1559311691815</updated>
       <workItem from="1559311693274" duration="12945000" />
       <workItem from="1559443137632" duration="7222000" />
-      <workItem from="1559573591585" duration="8525000" />
+      <workItem from="1559573591585" duration="12103000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28692000" />
+    <option name="totallyTimeSpent" value="32270000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="185" y="214" width="1620" height="920" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34237728" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34149486" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -345,7 +347,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Compute Code Lines" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.21883656" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.3224543" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -642,8 +644,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/python3/17_LetterCombinationOfAPhoneNumber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="372">
+          <caret line="64" column="23" lean-forward="true" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/python3/47_PermutationsII.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="42" column="35" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/python3/46_Permutations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="71" column="15" lean-forward="true" selection-start-line="71" selection-start-column="15" selection-end-line="71" selection-end-column="15" />
         </state>
       </provider>
     </entry>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8279b08-dcbe-43e5-8f77-b47f60be7899" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/python3/77_Combinations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/python3/116_RopulatingNextRightPointerInEachNode.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,18 +86,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/python3/77_Combinations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="63" column="6" selection-start-line="58" selection-end-line="74" selection-end-column="23" />
+            <state relative-caret-position="183">
+              <caret line="79" column="3" lean-forward="true" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/python3/45_JumpGameII.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/python3/116_RopulatingNextRightPointerInEachNode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="101" column="4" selection-start-line="95" selection-end-line="119" selection-end-column="19" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -120,7 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/python/90_SubsetsII.py" />
         <option value="$PROJECT_DIR$/LeetCode/python/53_MaximumSubarray.py" />
         <option value="$PROJECT_DIR$/LeetCode/python/54_SpiralMatrix.py" />
         <option value="$PROJECT_DIR$/LeetCode/python/56_MergeIntervals.py" />
@@ -171,14 +174,15 @@
         <option value="$PROJECT_DIR$/LeetCode/python3/73_SetMatrixZeroes.py" />
         <option value="$PROJECT_DIR$/LeetCode/python3/75_SortColors.py" />
         <option value="$PROJECT_DIR$/LeetCode/python3/77_Combinations.py" />
+        <option value="$PROJECT_DIR$/LeetCode/python3/116_RopulatingNextRightPointerInEachNode.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
-    <option name="y" value="381" />
+    <option name="y" value="-8" />
     <option name="width" value="1616" />
-    <option name="height" value="878" />
+    <option name="height" value="920" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -347,18 +351,18 @@
       <workItem from="1560132210278" duration="2314000" />
       <workItem from="1560251158635" duration="3319000" />
       <workItem from="1560332638773" duration="1105000" />
-      <workItem from="1560439511711" duration="2968000" />
+      <workItem from="1560439511711" duration="7862000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46188000" />
+    <option name="totallyTimeSpent" value="51082000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-31" y="144" width="1616" height="878" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36498708" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36498708" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -373,7 +377,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Compute Code Lines" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.3853591" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.1800554" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -387,13 +391,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/python3/133_CloneGraph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/python3/152_MaximumProductSubarray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -722,8 +719,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/python3/77_Combinations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="63" column="6" selection-start-line="58" selection-end-line="74" selection-end-column="23" />
+        <state relative-caret-position="183">
+          <caret line="79" column="3" lean-forward="true" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/python3/116_RopulatingNextRightPointerInEachNode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="101" column="4" selection-start-line="95" selection-end-line="119" selection-end-column="19" />
         </state>
       </provider>
     </entry>

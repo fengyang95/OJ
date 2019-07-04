@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8279b08-dcbe-43e5-8f77-b47f60be7899" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/python3/211_AddAndSearchWord_DataStructureDesign.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/python3/648_ReplaceWords.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,7 +84,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/python3/208_ImplementTrie_PrefixTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
+            <state relative-caret-position="850">
               <caret line="50" selection-start-line="50" selection-end-line="50" />
             </state>
           </provider>
@@ -95,7 +93,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/python3/211_AddAndSearchWord_DataStructureDesign.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
+            <state relative-caret-position="1207">
               <caret line="71" column="33" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
             </state>
           </provider>
@@ -104,8 +102,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LeetCode/python3/648_ReplaceWords.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="184">
+              <caret line="89" column="39" selection-start-line="89" selection-start-column="39" selection-end-line="89" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -184,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="245" />
     <option name="y" value="308" />
     <option name="width" value="1616" />
@@ -196,28 +194,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="OJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OJ" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OJ" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OJ" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="python3" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -366,18 +343,18 @@
       <workItem from="1561206767873" duration="831000" />
       <workItem from="1561471154445" duration="2935000" />
       <workItem from="1561721777413" duration="1048000" />
-      <workItem from="1561797708861" duration="767000" />
+      <workItem from="1561797708861" duration="1427000" />
+      <workItem from="1562078935771" duration="38000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59366000" />
+    <option name="totallyTimeSpent" value="60064000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="245" y="308" width="1616" height="786" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3882429" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39470285" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -392,7 +369,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Compute Code Lines" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.35759494" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.3130194" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -723,22 +700,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/python3/208_ImplementTrie_PrefixTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
+        <state relative-caret-position="850">
           <caret line="50" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/python3/211_AddAndSearchWord_DataStructureDesign.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
+        <state relative-caret-position="1207">
           <caret line="71" column="33" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/python3/648_ReplaceWords.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="184">
+          <caret line="89" column="39" selection-start-line="89" selection-start-column="39" selection-end-line="89" selection-end-column="39" />
         </state>
       </provider>
     </entry>

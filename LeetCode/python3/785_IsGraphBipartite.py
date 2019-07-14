@@ -76,3 +76,54 @@ class Solution:
                             return False
         return True
 
+"""
+"""
+class Solution:
+    def isBipartite(self, graph: List[List[int]]) -> bool:
+
+        num_of_node = len(graph)
+        A_set = set()
+        B_set = set()
+        temp_set = set()
+        D = set(str(i) for i in range(num_of_node))
+
+        # print(D)
+
+        def devideSet(index, A_set, B_set):
+            temp_set.clear()
+            for num in graph[index]:
+                temp_set.add(str(num))
+            if temp_set:  # why only .update
+                if not A_set:
+                    A_set.add(str(index))
+
+                    B_set.update(temp_set)
+                elif str(index) in A_set:
+                    B_set.update(temp_set)
+                elif str(index) in B_set:
+                    # A_set = A_set | temp_set
+                    A_set.update(temp_set)
+                else:
+                    A_set.add(str(index))
+                    B_set.update(temp_set)
+            else:
+                return -1
+
+        while D:
+            array = list(D)
+            D.remove(array[0])
+            devideSet(int(array[0]), A_set, B_set)
+            temp_set.clear()
+
+            while not (A_set | B_set).isdisjoint(D):
+                array = list((A_set | B_set) & D)
+                D.remove(array[0])
+                devideSet(int(array[0]), A_set, B_set)
+                if not A_set.isdisjoint(B_set):
+                    return False
+
+        if A_set.isdisjoint(B_set):
+            return True
+
+
+

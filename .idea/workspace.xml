@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8279b08-dcbe-43e5-8f77-b47f60be7899" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/python3/894_AllPossibleFullBinaryTrees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/python3/895_MaximumFrequencyStack.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/python3/785_IsGraphBipartite.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/python3/785_IsGraphBipartite.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,15 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/python3/322_CoinChange.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1377">
-              <caret line="81" selection-start-line="81" selection-end-line="81" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/python3/208_ImplementTrie_PrefixTree.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -84,11 +74,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/python3/894_AllPossibleFullBinaryTrees.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-103">
+            <state relative-caret-position="70">
               <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/python3/895_MaximumFrequencyStack.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="88" column="16" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -131,7 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/python3/198_HouseRobber.py" />
         <option value="$PROJECT_DIR$/LeetCode/python3/200_NumberOfIslands.py" />
         <option value="$PROJECT_DIR$/LeetCode/python3/207_CourseSchedule.py" />
         <option value="$PROJECT_DIR$/LeetCode/python3/210_CourseScheduleII.py" />
@@ -182,12 +180,13 @@
         <option value="$PROJECT_DIR$/LeetCode/python3/test.py" />
         <option value="$PROJECT_DIR$/LeetCode/python3/785_IsGraphBipartite.py" />
         <option value="$PROJECT_DIR$/LeetCode/python3/894_AllPossibleFullBinaryTrees.py" />
+        <option value="$PROJECT_DIR$/LeetCode/python3/895_MaximumFrequencyStack.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-87" />
-    <option name="y" value="299" />
+    <option name="x" value="-90" />
+    <option name="y" value="414" />
     <option name="width" value="1616" />
     <option name="height" value="786" />
   </component>
@@ -399,15 +398,15 @@
       <workItem from="1562078935771" duration="38000" />
       <workItem from="1562223301975" duration="2155000" />
       <workItem from="1562998725967" duration="897000" />
-      <workItem from="1563067930174" duration="2939000" />
+      <workItem from="1563067930174" duration="4144000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66055000" />
+    <option name="totallyTimeSpent" value="67260000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="438" y="271" width="1616" height="786" extended-state="0" />
+    <frame x="-90" y="414" width="1616" height="786" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19767442" />
@@ -415,7 +414,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21202531" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21202531" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -425,7 +424,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Compute Code Lines" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.28531855" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.3908228" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -439,13 +438,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/python3/54_SpiralMatrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/笔试题/ByteDance/ByteDance2.py" />
     <entry file="file://$PROJECT_DIR$/LeetCode/python3/t.py" />
     <entry file="file://$PROJECT_DIR$/笔试题/ByteDance/ByteCamp2019_0601/ByteDance1.py">
@@ -767,8 +759,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/python3/894_AllPossibleFullBinaryTrees.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-103">
+        <state relative-caret-position="70">
           <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/python3/895_MaximumFrequencyStack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="88" column="16" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
         </state>
       </provider>
     </entry>
